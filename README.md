@@ -65,6 +65,7 @@
 <img width="500" alt="image" src="https://github.com/daeyeong-choi/Thermocar/blob/main/images/diagram1.png" />
 <img width="500" alt="image" src="https://github.com/daeyeong-choi/Thermocar/blob/main/images/%ED%9A%8C%EB%A1%9C.png" />
 <img width="500" alt="image" src="https://github.com/daeyeong-choi/Thermocar/blob/main/images/parts.png" />
+<img width="500" alt="image" src="https://github.com/daeyeong-choi/Thermocar/blob/main/images/inside.png" />
 
 
 
@@ -79,4 +80,5 @@
 - **아이들의 의료 기기 공포 감소**
 - 병원, 소아과, 어린이집 등에서 활용 가능
 - **자발적인 체온 측정 습관 형성**에 기여
+
 
