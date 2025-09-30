@@ -1,0 +1,38 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/daeyeong/turtlebot4_ws/install/turtlebot4_node/include/**",
+        "/home/daeyeong/turtlebot4_ws/install/turtlebot4_msgs/include/**",
+        "/home/daeyeong/turtlebot4_ws/install/multirobot_map_merge/include/**",
+        "/home/daeyeong/turtlebot4_ws/install/explore_lite/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/daeyeong/Desktop/project2/DoosanBootcamp3rd/dsr_common2/include/**",
+        "/home/daeyeong/Desktop/project2/DoosanBootcamp3rd/dsr_controller2/include/**",
+        "/home/daeyeong/Desktop/project2/DoosanBootcamp3rd/dsr_example2/dsr_realtime_control/include/**",
+        "/home/daeyeong/Desktop/project2/DoosanBootcamp3rd/dsr_hardware2/include/**",
+        "/home/daeyeong/Desktop/turtlebot3_ws/src/DynamixelSDK/ros/dynamixel_sdk/include/**",
+        "/home/daeyeong/Desktop/turtlebot3_ws/src/DynamixelSDK/ros/dynamixel_sdk_examples/include/**",
+        "/home/daeyeong/Desktop/turtlebot3_ws/src/turtlebot3/turtlebot3_node/include/**",
+        "/home/daeyeong/Desktop/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_fake_node/include/**",
+        "/home/daeyeong/Desktop/turtlebot3_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/daeyeong/Desktop/비대면 ros2_ws/cpp_qt_plugin/include/**",
+        "/home/daeyeong/Desktop/비대면 ros2_ws/gz_ros2_control/gz_ros2_control/include/**",
+        "/home/daeyeong/Desktop/비대면 ros2_ws/my_robot_interfaces/include/**",
+        "/home/daeyeong/Desktop/비대면 ros2_ws/ros_study_msgs/include/**",
+        "/home/daeyeong/Desktop/비대면 ros2_ws/ros_tutorials/turtlesim/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
